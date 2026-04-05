@@ -14,9 +14,7 @@
  
   <p align="center">
     <img src="pixel_star_sticker.png" width="20" />
-    <a href="https://personal-linktree-l6lr.vercel.app">
-      <b>🔗 MY Social Accounts</b>
-    </a>
+
     <img src="pixel_star_sticker.png" width="20" />
   </p>
 </div>
